@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SXLTools</string>
+
+    <string name="toast_str">测试toast的一句话</string>
+</resources>
